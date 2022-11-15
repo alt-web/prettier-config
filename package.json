@@ -1,0 +1,9 @@
+{
+  "name": "@alt-web/prettier-config",
+  "version": "0.0.1",
+  "description": "Our prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:alt-web/prettier-config.git",
+  "author": "Ivan Reshetnikov <ordinarydev@protonmail.com>",
+  "license": "MIT"
+}

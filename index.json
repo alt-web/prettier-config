@@ -1,0 +1,13 @@
+{
+    "tabWidth": 4,
+    "semi": false,
+    "bracketSameLine": true,
+    "overrides": [
+        {
+            "files": ["*.yml", "*.md"],
+            "options": {
+                "tabWidth": 2
+            }
+        }
+    ]
+}
